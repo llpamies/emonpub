@@ -28,4 +28,4 @@ This is my setup, of three EmonTx Shields, each with an Arduino Leonardo, and a
 single NodeMCU board that sequentially reads from all of them and sends data to
 EmonCMS:
 
-![energy_monitor](https://github.com/llpamies/emonpub/blob/master/energy_monitor.jpg?raw=true)
+![energy_monitor](https://github.com/llpamies/emonpub/blob/main/energy_monitor.jpg?raw=true)
