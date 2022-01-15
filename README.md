@@ -29,3 +29,6 @@ single NodeMCU board that sequentially reads from all of them and sends data to
 EmonCMS:
 
 ![energy_monitor](https://github.com/llpamies/emonpub/blob/main/energy_monitor.jpg?raw=true)
+
+The box is custom-made and 3D-printed: [Emon
+Box](https://cad.onshape.com/documents/c6e4b7e304f4f2130f204cad/w/c06564a53a9a23fffc05c28a/e/69a91d13ed4525e4a211841a?renderMode=0&uiState=61e229798163d20dec98bcd3n)
