@@ -7,6 +7,8 @@ Shield](https://wiki.openenergymonitor.org/index.php/EmonTx_Arduino_Shield)
 devices, using an ESP8266 board, and export the data to
 [EmonCMS](https://www.emoncms.org).
 
+The firmware for the EmonTX Shield boards is in: [emontx](https://github.com/llpamies/emontx)
+
 The [OpenEnergyMonitor](https://www.openenergymonitor.org/) project has existing
 solutions that do exactly that. However, I didn't manage to make them work as I
 intended. The problem is that the
